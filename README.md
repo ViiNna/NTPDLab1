@@ -1,6 +1,7 @@
 Odopwiedzi na zadanie 5: 
 
 Różnice we wdrażaniu modelu ML w środowisku produkcyjnym a deweloperskim:
+
 środowisko developerskie:
 -jest mniejsze i statyczne, z naszego PC
 -możemy używać dowolnych bibliotek
